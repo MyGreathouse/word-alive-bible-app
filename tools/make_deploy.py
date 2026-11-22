@@ -10,3 +10,9 @@ for r,_,fs in os.walk('deploy'):
     for f in fs:
         p=os.path.join(r,f);z.write(p,os.path.relpath(p,'deploy'))
 z.close()
+
+# refresh the Cloudflare site folder
+import shutil
+shutil.rmtree('site',ignore_errors=True)
+zipfile.ZipFile('dist/WordAliveBible-deploy.zip').extractall('site')
+open('site/_headers','w').write('/index.html\n  Cache-Control: no-cache\n/sw.js\n  Cache-Control: no-cache\n/manifest.webmanifest\n  Cache-Control: no-cache\n/icons/*\n  Cache-Control: public, max-age=31536000, immutable\n')

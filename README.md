@@ -24,3 +24,9 @@ Bump the cache name in `deploy/sw.js` on each release.
 ## Status
 - Cross references cover all 66 books (from the Appendix B tables).
 - Planned: footnotes, BCLS word studies, reading plans, Play Store and App Store wrappers.
+
+## Hosting on Cloudflare (wabv.eobibles.com)
+The `site/` folder is the finished deploy package, served by Cloudflare Workers static assets (`wrangler.jsonc`).
+- Build command: leave empty. Deploy command: `npx wrangler deploy`.
+- Custom domain: Worker > Settings > Domains & Routes > Add > Custom domain > `wabv.eobibles.com`.
+- After changing `src/app.html`, run `python3 tools/build.py && python3 tools/make_deploy.py`, commit `site/` and push.
