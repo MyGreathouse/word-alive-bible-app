@@ -161,6 +161,59 @@ mark{background:var(--hl-y);color:inherit;border-radius:3px;padding:0 1px}
 .toast{position:fixed;left:50%;bottom:calc(76px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--fg);color:var(--bg);padding:10px 18px;border-radius:20px;font-size:13px;font-weight:600;z-index:60;box-shadow:var(--shadow)}
 .ldg{padding:40px 0;text-align:center;color:var(--muted)}
 @media (prefers-reduced-motion:no-preference){.sheet{animation:up .18s ease-out}@keyframes up{from{transform:translateY(24px);opacity:.4}}}
+.tabs button{position:relative}
+.tabs button[aria-current="page"]::after{content:"";position:absolute;bottom:3px;left:24%;right:24%;height:3px;border-radius:2px;background:currentColor}
+.homeview .top{display:none}
+.homeview .main{background:#000f27}
+.homeview .tabs{background:#06142d;border-top-color:#1b2d55}
+.homeview .tabs button{color:#c9cfdf}
+.homeview .tabs button[aria-current="page"]{color:#f2c14e}
+.hm{padding-bottom:30px;color:#f3e8d2}
+.hm-hero{position:relative;line-height:0}
+.hm-hero img{display:block;width:100%;height:auto;-webkit-mask-image:linear-gradient(#000 90%,transparent);mask-image:linear-gradient(#000 90%,transparent)}
+.hm-bar{position:absolute;top:0;left:0;right:0;display:flex;align-items:center;padding:calc(8px + env(safe-area-inset-top,0px)) 10px 0 18px;line-height:normal}
+.hm-mark{font-family:var(--brand);font-weight:700;font-size:1.9rem;background:linear-gradient(#ffe595,#d49a28);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hm-bar .sp{flex:1}
+.hm-bar button{width:44px;height:44px;display:grid;place-items:center;color:#fff}
+.hm-bar svg{width:26px;height:26px;stroke:currentColor;fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.hm-in{padding:0 16px}
+.hm-tt{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:-4px}
+.hm-tc{position:relative;display:block;height:124px;border-radius:16px;overflow:hidden;text-align:left;border:1px solid rgba(130,160,230,.4);background:linear-gradient(120deg,#22366f,#0b1736 72%);box-shadow:0 6px 18px rgba(0,0,0,.45);color:#fff}
+.hm-tc[aria-expanded="true"]{border-color:#e0b44f}
+.hm-tc img{position:absolute;left:0;top:0;height:100%;width:auto;-webkit-mask-image:linear-gradient(90deg,#000 72%,transparent);mask-image:linear-gradient(90deg,#000 72%,transparent)}
+.hm-tc .tx{position:absolute;left:46%;top:12px;right:8px}
+.hm-tc b{display:block;font-family:var(--brand);font-weight:700;font-size:1.2rem;line-height:1.02}
+.hm-tc small{display:block;margin-top:8px;font-size:13px;font-weight:600}
+.hm-tc .go{position:absolute;right:10px;bottom:10px;width:28px;height:28px;border-radius:50%;border:2px solid #f2c14e;display:grid;place-items:center;color:#f2c14e}
+.hm-tc .go svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;transition:transform .15s}
+.hm-tc[aria-expanded="true"] .go svg{transform:rotate(90deg)}
+.hm-panel{margin-top:12px;border:1px solid rgba(130,160,230,.35);border-radius:14px;background:#06142d;padding:2px 14px 14px}
+.hm-panel .sec2{color:#8fa6e8}
+.hm-panel .grid{grid-template-columns:repeat(auto-fill,minmax(104px,1fr))}
+.hm-panel .grid button{background:#0e1d40;border-color:#223764;color:#f3e8d2}
+.hm-panel .grid button:hover{background:#16295a}
+.hm-cont{display:flex;align-items:center;gap:14px;width:100%;margin-top:12px;padding:14px 16px;border-radius:16px;border:1px solid rgba(130,160,230,.4);background:linear-gradient(180deg,#0f2250,#08173a);text-align:left;color:#fff}
+.hm-cont svg{width:44px;height:44px;flex:none;stroke:#f2c14e;fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.hm-cont .tx{flex:1;min-width:0}
+.hm-cont em{display:block;font-style:normal;font-size:14px;font-weight:600;color:#8fa6e8}
+.hm-cont b{display:block;font-family:var(--brand);font-weight:700;font-size:1.9rem;line-height:1.05}
+.hm-cont small{display:block;color:#c9cfdf;font-size:13px}
+.hm-cont .rs{flex:none;display:inline-flex;align-items:center;gap:8px;height:42px;padding:0 18px;border-radius:21px;background:linear-gradient(#ffd96a,#e9a92a);color:#1a1405;font-weight:700;font-size:15px}
+.hm-votd{display:block;width:100%;margin-top:12px;padding:14px 18px 16px;border-radius:16px;border:1px solid rgba(130,160,230,.4);background:linear-gradient(180deg,#10285a 0%,#1b2f66 55%,#7a4720 150%);text-align:center;color:#fff}
+.hm-votd .vh,.hm-votd .vr{display:flex;align-items:center;justify-content:center;gap:10px;color:#f2c14e}
+.hm-votd .vh{font-family:var(--brand);font-weight:700;font-size:1.3rem}
+.hm-votd .vh::before,.hm-votd .vh::after,.hm-votd .vr::before,.hm-votd .vr::after{content:"";flex:1;max-width:64px;height:1px;background:#d9a02e}
+.hm-votd .vh svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.hm-votd q{display:block;quotes:none;margin:10px 0 10px;font-family:var(--scripture);font-weight:500;font-size:1.12rem;line-height:1.36}
+.hm-votd .vr{font-weight:700;font-size:15px}
+.hm-foot{margin:18px 0 0;text-align:center;font-size:12px;color:#8fa6e8}
+.seg{display:flex;gap:6px;margin:14px 0 4px}
+.seg button{flex:1;height:38px;border-radius:19px;background:var(--surface);border:1px solid var(--line);font-weight:600;font-size:13px}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--onaccent);border-color:var(--accent)}
+.more{padding-block:16px 30px}
+.more h1{font-family:var(--brand);font-size:2rem;margin:4px 0 8px}
+.more .row2{display:flex;align-items:center;gap:12px;width:100%;text-align:left;padding:16px 18px;margin-top:12px;border:1px solid var(--line);background:var(--surface);border-radius:14px;font-weight:600}
+.more .row2 small{display:block;color:var(--muted);font-weight:400;margin-top:2px}
 </style>
 <div class="app" id="app">
   <header class="top gut">
@@ -173,10 +226,10 @@ mark{background:var(--hl-y);color:inherit;border-radius:3px;padding:0 1px}
   <main class="main" id="main"></main>
   <nav class="tabs" id="tabs" aria-label="Sections">
     <button data-t="home"><svg viewBox="0 0 24 24"><path d="M4 11l8-7 8 7v9a1 1 0 0 1-1 1h-4v-6H9v6H5a1 1 0 0 1-1-1z"/></svg>Home</button>
-    <button data-t="read"><svg viewBox="0 0 24 24"><path d="M12 6c-2-1.5-5-2-8-1.5V19c3-.5 6 0 8 1.5 2-1.5 5-2 8-1.5V4.5C17 4 14 4.5 12 6zM12 6v14"/></svg>Read</button>
-    <button data-t="find"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>Search</button>
+    <button data-t="read"><svg viewBox="0 0 24 24"><path d="M12 6c-2-1.5-5-2-8-1.5V19c3-.5 6 0 8 1.5 2-1.5 5-2 8-1.5V4.5C17 4 14 4.5 12 6zM12 6v14"/></svg>Bible</button>
+    <button data-t="refs"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></svg>Explore</button>
     <button data-t="saved"><svg viewBox="0 0 24 24"><path d="M7 4h10a1 1 0 0 1 1 1v15l-6-4-6 4V5a1 1 0 0 1 1-1z"/></svg>Saved</button>
-    <button data-t="refs"><svg viewBox="0 0 24 24"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg>Refs</button>
+    <button data-t="more"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="6.5" height="6.5" rx="1.6"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.6"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.6"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.6"/></svg>More</button>
   </nav>
 </div>
 <script id="bibledata" type="application/json">/*DATA*/</script>
@@ -186,11 +239,11 @@ mark{background:var(--hl-y);color:inherit;border-radius:3px;padding:0 1px}
 "use strict";
 var B=JSON.parse(document.getElementById("bibledata").textContent);
 var OT=39;
-var HERO="/*HERO*/",MARK="/*MARK*/";
+var HERO="/*HERO*/",MARK="/*MARK*/",OTI="/*OTI*/",NTI="/*NTI*/";
 var R=JSON.parse(document.getElementById("refdata").textContent);
 function ls(k,d){try{var v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch(e){return d}}
 function ss(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
-var S={tab:"home",bi:0,ci:0,fs:ls("wab.fs",19),mode:ls("wab.mode","auto"),pos:ls("wab.pos",null),hl:ls("wab.hl",{}),bm:ls("wab.bm",{}),sel:null,q:"",scope:"all",seg:"bm",rv:null,rq:"",rst:[]};
+var S={tab:"home",bi:0,ci:0,fs:ls("wab.fs",19),mode:ls("wab.mode","auto"),pos:ls("wab.pos",null),hl:ls("wab.hl",{}),bm:ls("wab.bm",{}),sel:null,q:"",scope:"all",seg:"bm",rv:null,rq:"",rst:[],ot:-1};
 var main=document.getElementById("main");
 function el(t,c,h){var e=document.createElement(t);if(c)e.className=c;if(h!=null)e.textContent=h;return e}
 function key(b,c,v){return B[b].s+"."+(c+1)+"."+v}
@@ -322,31 +375,53 @@ var VOTD=[["genesis",1,1],["genesis",1,27],["joshua",1,9],["psalms",23,1],["psal
 function votd(){var d=new Date();var n=Math.floor(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())/86400000);var r=VOTD[n%VOTD.length];var b=bookIdx(r[0]);return b<0?null:{b:b,c:r[1]-1,v:r[2]}}
 function renderHome(){
   document.getElementById("tBook").textContent=B[S.bi].n;document.getElementById("tCh").textContent=S.ci+1;
-  var w=el("div","home gut");
-  var h1=el("h1","sr","Word Alive Bible Version (WABV)");w.appendChild(h1);
-  var hi=document.createElement("img");hi.className="herop";hi.src=HERO;hi.alt="Word Alive Bible Version (WABV). Faithful to the Word. Alive in English.";hi.width=1200;hi.height=676;hi.decoding="async";w.appendChild(hi);
-  var c1=el("div","card");c1.appendChild(el("h2",null,S.pos?"Continue reading":"Start reading"));
-  var bt=el("button","cont");var bi=S.pos?bookIdx(S.pos.b):0;if(bi<0)bi=0;var ci=S.pos?S.pos.c-1:0;
-  var tx=el("span");var b1=el("b",null,B[bi].n+" "+(B[bi].c.length>1?ci+1:""));tx.appendChild(b1);tx.appendChild(el("small",null,S.pos?"Pick up where you stopped":"Begin in Genesis"));
-  bt.appendChild(tx);bt.appendChild(el("span","go",S.pos?"Resume":"Open"));bt.onclick=function(){go(bi,ci)};c1.appendChild(bt);w.appendChild(c1);
-  var V=votd();if(V){
-    var t=verseText(V.b,V.c,V.v).replace(/\n/g," ");
-    var c2=el("div","card votd");c2.appendChild(el("h2",null,"Verse of the day"));var q=el("q",null,t);c2.appendChild(q);c2.appendChild(el("div","ref",ref(V.b,V.c,V.v)));
-    var row=el("div","row");var rd=el("button","sm","Read chapter");rd.onclick=function(){go(V.b,V.c)};var cp=el("button","sm","Copy");cp.onclick=function(){copy("“"+t+"” — "+ref(V.b,V.c,V.v)+" (WABV)","Verse copied")};row.appendChild(rd);row.appendChild(cp);c2.appendChild(row);w.appendChild(c2)}
-  var anchor=hi;
-  [["Old Testament","39 books \u00B7 Creation to the return from exile and the prophets",[["The Law",0,5],["History",5,17],["Poetry and Wisdom",17,22],["Major Prophets",22,27],["Minor Prophets",27,39]]],
-   ["New Testament","27 books \u00B7 The Gospels, the early assembly, the letters and Revelation",[["Gospels and Acts",39,44],["Letters",44,65],["Revelation",65,66]]]].forEach(function(T,ti){
-    var d=document.createElement("details");d.className="tsec";if(S.open&&S.open[ti])d.open=true;
-    var sm=document.createElement("summary");var im=document.createElement("img");im.src=MARK;im.alt="";im.className="mk2";sm.appendChild(im);
-    var tx2=el("span");tx2.appendChild(el("b",null,T[0]));tx2.appendChild(el("small",null,T[1]));sm.appendChild(tx2);
-    var ch=el("span","chev");ch.innerHTML='<svg width="16" height="16" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M2 4l4 4 4-4"/></svg>';sm.appendChild(ch);d.appendChild(sm);
-    var bd=el("div","body");
-    T[2].forEach(function(g){bd.appendChild(el("div","sec2",g[0]));var gr=el("div","grid");
+  var w=el("div","hm");w.appendChild(el("h1","sr","Word Alive Bible Version (WABV)"));
+  var hero=el("div","hm-hero");var hi=document.createElement("img");hi.src=HERO;hi.alt="Word Alive Bible Version (WABV). Faithful to the Word. Alive in English.";hi.width=929;hi.height=700;hi.decoding="async";hero.appendChild(hi);
+  var bar=el("div","hm-bar");bar.appendChild(el("span","hm-mark","WABV"));bar.appendChild(el("span","sp"));
+  function ib(label,path,fn){var b=el("button");b.setAttribute("aria-label",label);b.innerHTML='<svg viewBox="0 0 24 24">'+path+'</svg>';b.onclick=fn;bar.appendChild(b)}
+  ib("Search","<circle cx='11' cy='11' r='6.5'/><path d='M16 16l4.5 4.5'/>",function(){S.tab="find";render(true)});
+  ib("Notifications","<path d='M6 16v-5a6 6 0 0 1 12 0v5l1.5 2h-15zM10 20.5a2 2 0 0 0 4 0'/>",function(){toast("No new notifications")});
+  ib("Reading settings","<circle cx='12' cy='12' r='3.2'/><path d='M19.4 13a7.7 7.7 0 0 0 0-2l2-1.5-2-3.4-2.3.9a7.5 7.5 0 0 0-1.7-1L15 3.5h-4l-.4 2.5a7.5 7.5 0 0 0-1.7 1l-2.3-.9-2 3.4 2 1.5a7.7 7.7 0 0 0 0 2l-2 1.5 2 3.4 2.3-.9c.5.4 1.1.7 1.7 1l.4 2.5h4l.4-2.5c.6-.3 1.2-.6 1.7-1l2.3.9 2-3.4z'/>",function(){document.getElementById("bSet").click()});
+  hero.appendChild(bar);w.appendChild(hero);
+  var inn=el("div","hm-in");w.appendChild(inn);
+  var T=[["Old Testament","39 Books",OTI,[["The Law",0,5],["History",5,17],["Poetry and Wisdom",17,22],["Major Prophets",22,27],["Minor Prophets",27,39]]],
+         ["New Testament","27 Books",NTI,[["Gospels and Acts",39,44],["Letters",44,65],["Revelation",65,66]]]];
+  var row=el("div","hm-tt");inn.appendChild(row);var panel=el("div");inn.appendChild(panel);var cards=[];
+  function fill(){
+    cards.forEach(function(c,i){c.setAttribute("aria-expanded",S.ot===i)});panel.replaceChildren();
+    if(S.ot<0)return;var pn=el("div","hm-panel");
+    T[S.ot][3].forEach(function(g){pn.appendChild(el("div","sec2",g[0]));var gr=el("div","grid");
       for(var i=g[1];i<g[2];i++){(function(i){var bt=el("button",null,B[i].n);bt.onclick=function(){go(i,0)};gr.appendChild(bt)})(i)}
-      bd.appendChild(gr)});
-    d.appendChild(bd);d.addEventListener("toggle",function(){S.open=S.open||{};S.open[ti]=d.open});w.insertBefore(d,anchor.nextSibling);anchor=d});
-  w.appendChild(el("div","foot","Word Alive Bible Version (WABV)\n66 books · 1,189 chapters · draft for review")).style.whiteSpace="pre-line";
+      pn.appendChild(gr)});
+    panel.appendChild(pn)}
+  T.forEach(function(t,i){
+    var c=el("button","hm-tc");c.setAttribute("aria-label",t[0]+", "+t[1]);var im=document.createElement("img");im.src=t[2];im.alt="";c.appendChild(im);
+    var tx=el("span","tx");tx.appendChild(el("b",null,t[0]));tx.appendChild(el("small",null,t[1]));c.appendChild(tx);
+    var g=el("span","go");g.innerHTML='<svg viewBox="0 0 12 12"><path d="M4 2l4 4-4 4"/></svg>';c.appendChild(g);
+    c.onclick=function(){S.ot=S.ot===i?-1:i;fill()};row.appendChild(c);cards.push(c)});
+  fill();
+  var bi=S.pos?bookIdx(S.pos.b):0;if(bi<0)bi=0;var ci=S.pos?S.pos.c-1:0;
+  var ct=el("button","hm-cont");ct.innerHTML='<svg viewBox="0 0 24 24"><path d="M12 6c-2-1.5-5-2-8-1.5V19c3-.5 6 0 8 1.5 2-1.5 5-2 8-1.5V4.5C17 4 14 4.5 12 6zM12 6v14"/></svg>';
+  var tx2=el("span","tx");tx2.appendChild(el("em",null,S.pos?"Continue Reading":"Start Reading"));tx2.appendChild(el("b",null,B[bi].n+(B[bi].c.length>1?" "+(ci+1):"")));tx2.appendChild(el("small",null,S.pos?"Pick up where you stopped":"Begin in Genesis"));ct.appendChild(tx2);
+  var rs=el("span","rs");rs.appendChild(document.createTextNode(S.pos?"Resume":"Open"));rs.insertAdjacentHTML("beforeend",'<svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor" style="width:12px;height:12px;stroke:none;fill:currentColor"><path d="M3 1.5v9l7.5-4.5z"/></svg>');ct.appendChild(rs);
+  ct.onclick=function(){go(bi,ci)};inn.appendChild(ct);
+  var V=votd();if(V){
+    var t=verseText(V.b,V.c,V.v).replace(/\n/g," ");var vb=el("button","hm-votd");vb.setAttribute("aria-label","Verse of the day, "+ref(V.b,V.c,V.v)+". Open chapter.");
+    var vh=el("span","vh");vh.innerHTML='<svg viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="15" rx="2.5"/><path d="M8 3v4M16 3v4M4 10h16M9 15l2 2 4-4"/></svg>';vh.appendChild(document.createTextNode("Verse of the Day"));vb.appendChild(vh);
+    vb.appendChild(el("q",null,"“"+t+"”"));vb.appendChild(el("span","vr",ref(V.b,V.c,V.v)));vb.onclick=function(){go(V.b,V.c)};inn.appendChild(vb)}
+  inn.appendChild(el("div","hm-foot","66 books · 1,189 chapters · draft for review"));
   main.replaceChildren(w);
+}
+function expSeg(act){
+  var d=el("div","seg");[["refs","Cross references"],["find","Search words"]].forEach(function(x){var b=el("button",null,x[1]);b.setAttribute("aria-pressed",act===x[0]);b.onclick=function(){if(S.tab!==x[0]){S.tab=x[0];render(true)}};d.appendChild(b)});return d}
+function renderMore(){
+  document.getElementById("tBook").textContent=B[S.bi].n;document.getElementById("tCh").textContent=S.ci+1;
+  var w=el("div","more gut");w.appendChild(el("h1",null,"More"));
+  function item(t,sub,fn){var b=el("button","row2");var s=el("span");s.appendChild(document.createTextNode(t));s.appendChild(el("small",null,sub));b.appendChild(s);b.onclick=fn;w.appendChild(b)}
+  item("Reading settings","Text size, reading mode and more",function(){document.getElementById("bSet").click()});
+  item("Day or night","Switch the look of the app",function(){document.getElementById("bTheme").click()});
+  w.appendChild(el("div","foot","Word Alive Bible Version (WABV)\n66 books · 1,189 chapters · draft for review")).style.whiteSpace="pre-line";
+  main.replaceChildren(w);main.scrollTop=0;
 }
 /* search */
 var LOW=null;
@@ -355,7 +430,7 @@ function esc(s){return s.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")}
 function parseQ(q){var t=[],re=/"([^"]+)"|(\S+)/g,m;q=q.replace(/[“”]/g,'"');while((m=re.exec(q)))t.push((m[1]||m[2]).toLowerCase());return t}
 function renderFind(){
   document.getElementById("tBook").textContent=B[S.bi].n;document.getElementById("tCh").textContent=S.ci+1;
-  var w=el("div","find gut");var sb=el("div","sb");var inp=document.createElement("input");inp.id="q";inp.type="search";inp.placeholder="Search words or phrases";inp.value=S.q;inp.setAttribute("aria-label","Search the Bible");inp.autocomplete="off";sb.appendChild(inp);w.appendChild(sb);
+  var w=el("div","find gut");w.appendChild(expSeg("find"));var sb=el("div","sb");var inp=document.createElement("input");inp.id="q";inp.type="search";inp.placeholder="Search words or phrases";inp.value=S.q;inp.setAttribute("aria-label","Search the Bible");inp.autocomplete="off";sb.appendChild(inp);w.appendChild(sb);
   var sc=el("div","scope");[["all","Whole Bible"],["ot","Old Testament"],["nt","New Testament"]].forEach(function(s){var b=el("button",null,s[1]);b.setAttribute("aria-pressed",S.scope===s[0]);b.onclick=function(){S.scope=s[0];renderFind();inp.focus()};sc.appendChild(b)});w.appendChild(sc);
   var out=el("div");w.appendChild(out);main.replaceChildren(w);
   var timer;function run(){
@@ -439,7 +514,7 @@ function setRv(x,push){if(push&&S.rv)S.rst.push(S.rv);S.rv=x;renderRefs()}
 function renderRefs(){
   document.getElementById("tBook").textContent=B[S.bi].n;document.getElementById("tCh").textContent=S.ci+1;
   if(!S.rv)S.rv={b:S.bi,c:S.ci,v:firstV(S.bi,S.ci)};
-  var rv=S.rv,w=el("div","refs gut");
+  var rv=S.rv,w=el("div","refs gut");w.appendChild(expSeg("refs"));
   var sb=el("div","sb");var inp=document.createElement("input");inp.type="search";inp.placeholder="Find a verse, e.g. John 3:16";inp.value=S.rq;inp.setAttribute("aria-label","Find cross references for a verse");inp.autocomplete="off";sb.appendChild(inp);w.appendChild(sb);
   var msg=el("div","cnt");msg.style.minHeight="1em";w.appendChild(msg);
   inp.addEventListener("keydown",function(e){if(e.key==="Enter"){var p=parseRefQ(inp.value);if(p){S.rq=inp.value;setRv(p,true)}else msg.textContent="Try a book, chapter and verse, such as Romans 8:28."}});
@@ -474,15 +549,16 @@ function renderRefs(){
   main.replaceChildren(w);main.scrollTop=0;
 }
 function render(top){
-  [].forEach.call(document.querySelectorAll("#tabs button"),function(b){if(b.dataset.t===S.tab)b.setAttribute("aria-current","page");else b.removeAttribute("aria-current")});
-  if(S.tab==="read")renderRead();else if(S.tab==="find")renderFind();else if(S.tab==="saved")renderSaved();else if(S.tab==="refs")renderRefs();else renderHome();
+  document.getElementById("app").classList.toggle("homeview",S.tab==="home");
+  [].forEach.call(document.querySelectorAll("#tabs button"),function(b){if(b.dataset.t===S.tab||(b.dataset.t==="refs"&&S.tab==="find"))b.setAttribute("aria-current","page");else b.removeAttribute("aria-current")});
+  if(S.tab==="read")renderRead();else if(S.tab==="find")renderFind();else if(S.tab==="saved")renderSaved();else if(S.tab==="refs")renderRefs();else if(S.tab==="more")renderMore();else renderHome();
   if(top)main.scrollTop=0;
 }
 function fromHash(){
   var h=location.hash.replace(/^#/,"");var m=h.match(/^read-([a-z0-9]+)-(\d+)$/);
   if(m){var b=bookIdx(m[1]);if(b>=0){var c=Math.min(Math.max(+m[2],1),B[b].c.length)-1;S.bi=b;S.ci=c;S.tab="read";S.pos={b:B[b].s,c:c+1};ss("wab.pos",S.pos);render(true);return}}
   if(h==="refs"&&!S.rv)S.rv={b:S.bi,c:S.ci,v:firstV(S.bi,S.ci)};
-  if(h==="find"||h==="saved"||h==="home"||h==="refs"){S.tab=h;render(false);return}
+  if(h==="find"||h==="saved"||h==="home"||h==="refs"||h==="more"){S.tab=h;render(false);return}
   if(h==="read"){S.tab="read";render(true);return}
   S.tab="home";render(false);
 }
