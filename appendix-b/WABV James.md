@@ -306,7 +306,7 @@
 | 2:1-13 | Leviticus 19:15, 18; Deuteronomy 1:17; Matthew 5:19; 22:39; Romans 2:11 | Parallel and allusion: partiality, and the royal law |
 | 2:14-26 | Genesis 15:6; 22:1-19; Joshua 2:1-21; Isaiah 41:8; Romans 3:27-4:25; Galatians 2:16; 5:6 | Parallel and allusion: faith and works |
 | 3:1-12 | Proverbs 10:19; 15:4; 18:21; Psalm 12:2-4; Matthew 12:36-37; Genesis 1:26 | Parallel and allusion: the tongue |
-| 3:13-18 | Proverbs 3:13-18; Wisdom 7:22-30; Galatians 5:19-23; Matthew 5:9 | Parallel and allusion: the two kinds of wisdom |
+| 3:13-18 | Proverbs 3:13-18; Galatians 5:19-23; Matthew 5:9 | Parallel and allusion: the two kinds of wisdom |
 | 4:1-12 | Proverbs 3:34; Psalm 1; Matthew 6:24; 1 Peter 5:5-9; Romans 2:1; 14:4 | Parallel and allusion: quarrels, and friendship with the world |
 | 4:13-5:6 | Proverbs 27:1; Psalm 39:5; Luke 12:16-21; Leviticus 19:13; Deuteronomy 24:14-15; Isaiah 5:9 | Parallel and allusion: the merchants, and the rich |
 | 5:7-12 | Deuteronomy 11:14; Job 1-2; 42:10-17; Matthew 5:33-37; 1 Thessalonians 3:13 | Parallel and allusion: patience, Job, and oaths |

@@ -2943,7 +2943,7 @@
 | 17:1-10 | Mark 9:42; Matthew 17:20; 18:6-7, 15, 21-22 | Parallel and allusion: stumbling, forgiveness, faith, and duty |
 | 17:11-19 | Leviticus 14:2-32; 2 Kings 5:1-14 | Parallel and allusion: the ten with skin disease |
 | 17:20-37 | Genesis 6 to 8; 19; Matthew 24:17-18, 26-28, 37-41 | Parallel and allusion: the kingdom and the days of the Son of Man |
-| 18:1-8 | Genesis 18:25; Sirach 35:15-19 | Parallel and allusion: the widow and the judge |
+| 18:1-8 | Genesis 18:25 | Parallel and allusion: the widow and the judge |
 | 18:9-14 | Psalm 51; Isaiah 58:1-9 | Parallel and allusion: the Pharisee and the tax collector |
 | 18:15-30 | Exodus 20:12-16; Mark 10:13-31; Matthew 19:13-30 | Parallel and allusion: the children, and the rich ruler |
 | 18:31-43 | Isaiah 53; Mark 10:32-52; Matthew 20:17-34 | Parallel and allusion: the third prediction, and the blind man at Jericho |

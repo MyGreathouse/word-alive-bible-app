@@ -89,6 +89,6 @@
 | 1-4 | Mark 6:3; Acts 15:13-21; Galatians 1:19; 2 Peter 2:1-3; Ephesians 4:1-6 | Parallel and allusion: the greeting, and the call to contend for the faith |
 | 5-7 | Numbers 14:1-38; 1 Corinthians 10:1-11; Genesis 6:1-4; 19:1-29; 2 Peter 2:4-10 | Parallel and allusion: the judgements of old |
 | 8-13 | 2 Peter 2:10-17; Zechariah 3:2; Genesis 4:1-16; Numbers 16; 22-24; Ezekiel 34:2 | Parallel and allusion: the false teachers, Michael, and the images |
-| 14-16 | Genesis 5:18-24; 1 Enoch 1:9; Deuteronomy 33:2; Zechariah 14:5 | Parallel and allusion: the prophecy of Enoch |
+| 14-16 | Genesis 5:18-24; Deuteronomy 33:2; Zechariah 14:5 | Parallel and allusion: the prophecy of Enoch |
 | 17-23 | 2 Peter 3:1-3; 1 Timothy 4:1; Zechariah 3:2; Amos 4:11; 1 Corinthians 2:14 | Parallel and allusion: the apostles, and the call to build up and show mercy |
 | 24-25 | Romans 16:25-27; 1 Timothy 1:17; Ephesians 3:20-21; Philippians 2:15; Colossians 1:22 | Parallel and allusion: the doxology |

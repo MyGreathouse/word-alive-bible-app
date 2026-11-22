@@ -142,7 +142,7 @@
 | --- | --- | --- |
 | 1:1-4 | Romans 1:1-7; 16:25-26; 2 Timothy 1:1-2, 9-10; 1 Timothy 1:1-2 | Parallel and allusion: the greeting, and the promise before the ages |
 | 1:5-9 | 1 Timothy 3:1-7; Acts 14:23; 20:17-28; Philippians 1:1 | Parallel and allusion: elders and overseers |
-| 1:10-16 | 1 Timothy 1:3-7; 4:1-5; Romans 14:14, 20; Epimenides | Parallel and allusion: the false teachers, and the Cretans |
+| 1:10-16 | 1 Timothy 1:3-7; 4:1-5; Romans 14:14, 20 | Parallel and allusion: the false teachers, and the Cretans |
 | 2:1-10 | 1 Timothy 2:9-15; 5:1-16; 6:1-2; Ephesians 5:22-6:9; Colossians 3:18-4:1 | Parallel and allusion: sound teaching, and the households |
 | 2:11-15 | Isaiah 53:5-12; Exodus 19:5; Deuteronomy 14:2; Ezekiel 37:23; 1 Timothy 2:3-6 | Parallel and allusion: the grace that has appeared |
 | 3:1-8 | Romans 13:1-7; Ephesians 2:1-10; 5:25-27; Matthew 19:28; Joel 2:28-29; John 3:5 | Parallel and allusion: the kindness of God, and the washing of rebirth |

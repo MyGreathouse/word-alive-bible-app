@@ -2179,7 +2179,7 @@
 | 1:35-51 | Genesis 28:12; Deuteronomy 18:15; Psalm 2:7; Matthew 4:18-22 | Parallel and allusion: the first disciples |
 | 2:1-12 | Isaiah 25:6; Jeremiah 31:12 | Parallel and allusion: the wedding at Cana |
 | 2:13-25 | Psalm 69:9; Zechariah 14:21; Matthew 21:12-17; Mark 11:15-19 | Parallel and allusion: the cleansing of the temple |
-| 3:1-21 | Genesis 22:2; Numbers 21:8-9; Ezekiel 36:25-27; Wisdom 9:16-17 | Parallel and allusion: Nicodemus, and the new birth |
+| 3:1-21 | Genesis 22:2; Numbers 21:8-9; Ezekiel 36:25-27 | Parallel and allusion: Nicodemus, and the new birth |
 | 3:22-36 | Psalm 45; Isaiah 62:5; Matthew 3:11 | Parallel and allusion: the last witness of John |
 | 4:1-42 | Genesis 29:1-12; 33:19; Exodus 2:15-22; Deuteronomy 11:29; 2 Kings 17:24-41; Isaiah 12:3; Jeremiah 2:13; Ezekiel 47 | Parallel and allusion: the Samaritan woman at the well |
 | 4:43-54 | 1 Kings 17:17-24; Matthew 8:5-13; Luke 7:1-10 | Parallel and allusion: the royal official's son |
@@ -2193,7 +2193,7 @@
 | 8:31-59 | Genesis 15; 17; 22; Exodus 3:14; Psalm 82:6; Isaiah 43:10-13 | Parallel and allusion: the children of Abraham, and "before Abraham was, I am" |
 | 9:1-41 | Exodus 4:11; Psalm 146:8; Isaiah 8:6; 35:5; 42:7, 16, 18-19; 43:8 | Parallel and allusion: the man born blind |
 | 10:1-21 | Numbers 27:15-17; Psalm 23; Jeremiah 23:1-4; Ezekiel 34 | Parallel and allusion: the door and the good shepherd |
-| 10:22-42 | Psalm 82:6; 1 Maccabees 4:36-59; 2 Maccabees 10:1-8 | Parallel and allusion: the Dedication, and "I and the Father are one" |
+| 10:22-42 | Psalm 82:6 | Parallel and allusion: the Dedication, and "I and the Father are one" |
 | 11:1-44 | 1 Kings 17:17-24; 2 Kings 4:18-37; Isaiah 25:8; Ezekiel 37; Daniel 12:2; Luke 7:11-17; 10:38-42 | Parallel and allusion: the raising of Lazarus |
 | 11:45-57 | Isaiah 53:8; Ezekiel 37:21-22 | Parallel and allusion: the council, and the words of Caiaphas |
 | 12:1-11 | Deuteronomy 15:11; Mark 14:3-9; Matthew 26:6-13; Luke 7:36-50 | Parallel and allusion: the anointing at Bethany |

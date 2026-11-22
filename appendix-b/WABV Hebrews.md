@@ -833,7 +833,7 @@
 
 | Verses | References | Kind |
 | --- | --- | --- |
-| 1:1-4 | Proverbs 8:22-31; Wisdom 7:25-26; John 1:1-18; Colossians 1:15-20; Philippians 2:5-11 | Parallel and allusion: the Son, and the radiance of God |
+| 1:1-4 | Proverbs 8:22-31; John 1:1-18; Colossians 1:15-20; Philippians 2:5-11 | Parallel and allusion: the Son, and the radiance of God |
 | 1:5-14 | Psalm 2:7; 45:6-7; 97:7; 102:25-27; 104:4; 110:1; 2 Samuel 7:14; Deuteronomy 32:43 | Parallel and allusion: the Son and the angels |
 | 2:1-4 | Deuteronomy 33:2; Acts 7:38, 53; Galatians 3:19; Mark 16:20 | Parallel and allusion: the first warning |
 | 2:5-9 | Psalm 8:4-6; 1 Corinthians 15:27; Philippians 2:5-11 | Parallel and allusion: the world to come, and Jesus made lower |
@@ -841,7 +841,7 @@
 | 3:1-6 | Numbers 12:7; 2 Samuel 7:5-16; Zechariah 6:12-13 | Parallel and allusion: Jesus and Moses |
 | 3:7-19 | Psalm 95:7-11; Exodus 17:1-7; Numbers 14:1-35; 20:2-13 | Parallel and allusion: the warning from the wilderness |
 | 4:1-11 | Genesis 2:2; Psalm 95:11; Numbers 14:21-23; Joshua 21:44-45 | Parallel and allusion: the rest of God |
-| 4:12-16 | Isaiah 49:2; Wisdom 18:15-16; Ephesians 6:17; Romans 8:34; 2 Corinthians 5:21 | Parallel and allusion: the word of God, and the great high priest |
+| 4:12-16 | Isaiah 49:2; Ephesians 6:17; Romans 8:34; 2 Corinthians 5:21 | Parallel and allusion: the word of God, and the great high priest |
 | 5:1-10 | Leviticus 9:7; 16:6; Psalm 2:7; 110:4; Mark 14:32-42; Exodus 28:1 | Parallel and allusion: the high priest, and the Son who learned obedience |
 | 5:11-6:3 | 1 Corinthians 3:1-3; Isaiah 28:9-10; Acts 19:1-7 | Parallel and allusion: milk and solid food, and the elementary doctrine |
 | 6:4-12 | Hebrews 10:26-31; 12:15-17; Matthew 12:31-32; Isaiah 5:1-7 | Parallel and allusion: the second warning |
@@ -858,7 +858,7 @@
 | 11:1-12 | Genesis 1:1-3; 4:1-10; 5:21-24; 6:9-22; 12:1-8; 17:19; 21:1-7; Habakkuk 2:4 | Parallel and allusion: faith from the creation to Abraham and Sarah |
 | 11:13-22 | Genesis 23:4; 25:23; 27:27-40; 47:31; 48:1-22; 50:24-25; Psalm 39:12 | Parallel and allusion: strangers and exiles, and the patriarchs |
 | 11:23-31 | Exodus 1:15-2:15; 12:21-28; 14:21-31; Joshua 2:1-21; 6:1-25 | Parallel and allusion: Moses, the exodus, and Jericho |
-| 11:32-40 | Judges 4-16; 1 Samuel; Daniel 3; 6; 1 Kings 17:17-24; 2 Kings 4:25-37; 2 Maccabees 6-7 | Parallel and allusion: the many who conquered and suffered |
+| 11:32-40 | Judges 4-16; 1 Samuel; Daniel 3; 6; 1 Kings 17:17-24; 2 Kings 4:25-37 | Parallel and allusion: the many who conquered and suffered |
 | 12:1-13 | Psalm 110:1; Proverbs 3:11-12; Isaiah 35:3; 1 Corinthians 9:24-27; Philippians 3:12-14 | Parallel and allusion: the race, and the discipline of the Lord |
 | 12:14-29 | Genesis 25:29-34; 27:30-40; Exodus 19:12-22; Deuteronomy 4:24; 9:19; 29:18; Haggai 2:6; Galatians 4:24-26 | Parallel and allusion: Esau, Sinai and Zion, and the unshakeable kingdom |
 | 13:1-17 | Genesis 18:1-8; Deuteronomy 31:6; Psalm 118:6; Leviticus 16:27; Isaiah 53:12; Romans 12:1 | Parallel and allusion: the closing exhortations, and the altar outside the camp |

@@ -2598,7 +2598,7 @@
 | 6:20-35 | Proverbs 1:8-9; 3:3; 7:1-3; Psalm 119:105; Exodus 20:14; 22:1-4; Leviticus 20:10; Deuteronomy 22:22; Job 31:9-12 | Parallel: the commandment as a lamp, and the cost of adultery |
 | 7:1-27 | Proverbs 2:16-19; 5:1-6; 9:13-18; Deuteronomy 32:10; Leviticus 7:15; Job 24:15; Hosea 4:11; Revelation 2:20-23 | Parallel: the young man, the house of the strange woman and the way to Sheol |
 | 8:1-21 | Proverbs 1:20-33; 9:1-6; 3:13-18; 4:5-9; Job 28:12-28; Psalm 119:127; 1 Kings 3:9-13 | Parallel: Wisdom calls at the gates and offers riches and justice |
-| 8:22-31 | Proverbs 3:19-20; Genesis 1:1-2:3; Job 28:23-27; 38:4-11; Psalm 33:6; 104:24; John 1:1-3; Colossians 1:15-17; Sirach 24:1-12 | Parallel and allusion: Wisdom before and at the creation |
+| 8:22-31 | Proverbs 3:19-20; Genesis 1:1-2:3; Job 28:23-27; 38:4-11; Psalm 33:6; 104:24; John 1:1-3; Colossians 1:15-17 | Parallel and allusion: Wisdom before and at the creation |
 | 8:32-36 | Proverbs 3:13-18; 4:10; 9:6; Psalm 1:1-2; Deuteronomy 30:15-20; John 12:25 | Parallel: the blessed who listen and the choice between life and death |
 | 9:1-12 | Proverbs 1:7; 8:1-5; Psalm 111:10; Matthew 22:1-4; Luke 14:16-24; Isaiah 55:1-3; Matthew 7:6 | Parallel and allusion: Wisdom's house and feast, and the scoffer and the wise |
 | 9:13-18 | Proverbs 7:10-27; 2:16-19; 5:3-6; Isaiah 5:11-14; Job 20:12-14; Psalm 141:4 | Parallel: Folly's call and the dead in the depths of Sheol |

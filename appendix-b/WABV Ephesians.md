@@ -448,4 +448,4 @@
 | 5:15-21 | Proverbs 23:31; Colossians 3:16-17; 1 Corinthians 14:26 | Parallel and allusion: wisdom, and being filled with the Spirit |
 | 5:22-33 | Genesis 2:24; Colossians 3:18-19; 1 Peter 3:1-7; 1 Corinthians 11:3 | Parallel and allusion: wives and husbands, and Christ and the assembly |
 | 6:1-9 | Exodus 20:12; Deuteronomy 5:16; Colossians 3:20-4:1; 1 Peter 2:18-25; Philemon 15-16 | Parallel and allusion: children and parents, slaves and masters |
-| 6:10-24 | Isaiah 11:5; 49:2; 52:7; 59:17; Wisdom 5:17-20; 1 Thessalonians 5:8; Colossians 4:7-8 | Parallel and allusion: the armour of God, and the closing |
+| 6:10-24 | Isaiah 11:5; 49:2; 52:7; 59:17; 1 Thessalonians 5:8; Colossians 4:7-8 | Parallel and allusion: the armour of God, and the closing |

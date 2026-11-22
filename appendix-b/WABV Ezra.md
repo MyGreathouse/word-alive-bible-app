@@ -782,7 +782,7 @@
 | 1:4 | Exodus 3:21-22; 12:35-36 | Parallel: gifts from neighbours |
 | 1:5-6 | Haggai 1:14; 1 Chronicles 5:26; 2 Chronicles 36:22 | Parallel: the LORD stirs the spirit |
 | 1:7-11 | 2 Kings 24:13; 25:13-15; Daniel 1:2; 5:2; Ezra 5:13-15; 6:5 | Parallel: the vessels of the temple |
-| 2:1-70 | Nehemiah 7:6-73; 1 Esdras 5:7-43 | Parallel: the list of those who returned |
+| 2:1-70 | Nehemiah 7:6-73 | Parallel: the list of those who returned |
 | 2:2 | Nehemiah 7:7; Ezra 3:2; Haggai 1:1 | Parallel: Zerubbabel and Jeshua |
 | 2:59-63 | Nehemiah 7:61-65; Numbers 3:10; Exodus 28:30; Leviticus 8:8 | Parallel: those without family records and the Urim and Thummim |
 | 2:68-70 | Nehemiah 7:70-73; 1 Chronicles 29:6-9; Exodus 35:21-29 | Parallel: the freewill offerings |
@@ -803,7 +803,7 @@
 | 7:10 | Deuteronomy 17:18-20; 31:9-13; Psalm 119:45; Nehemiah 8:1-8; Malachi 2:7 | Parallel: study, do and teach the law |
 | 7:12-26 | Ezra 6:6-12; Nehemiah 2:1-9; Esther 1:14; Ezra 4:13 | Parallel: Artaxerxes' letter to Ezra |
 | 7:27-28 | Ezra 7:6, 9; 8:18, 22, 31; Nehemiah 2:8, 18; Proverbs 21:1 | Parallel: the hand of the LORD on Ezra |
-| 8:1-14 | Ezra 2:3-15; 1 Esdras 8:28-40; 1 Chronicles 3:22 | Parallel: the families who went up with Ezra |
+| 8:1-14 | Ezra 2:3-15; 1 Chronicles 3:22 | Parallel: the families who went up with Ezra |
 | 8:15-20 | Ezra 2:40-43, 58; 1 Chronicles 9:2; Nehemiah 8:7; 11:3 | Parallel: the search for Levites at Casiphia |
 | 8:21-23 | 2 Chronicles 20:3-4; Joel 2:12-17; Jonah 3:5-10; Psalm 34:15; Isaiah 58:3-9 | Parallel: the fast at the river Ahava |
 | 8:24-34 | Ezra 7:15-19; Numbers 3:5-10; 1 Chronicles 9:26-29; 26:20-28 | Parallel: the silver and gold weighed and delivered |
@@ -814,4 +814,4 @@
 | 9:11-12 | Leviticus 18:24-30; Deuteronomy 7:3; 23:6; Judges 3:5-6; 1 Kings 11:1-8 | Parallel: the commands against intermarriage |
 | 10:1-8 | Nehemiah 9:1-3; 10:28-31; 2 Chronicles 34:31-32; Deuteronomy 21:10-14 | Parallel: the covenant to send away the wives and children |
 | 10:9-17 | Leviticus 27:28-29; Joshua 7:11-15; Nehemiah 13:23-30; Malachi 2:10-16 | Parallel: the assembly, the rain and the commission |
-| 10:18-44 | Ezra 2:1-70; 8:1-14; Nehemiah 7:6-73; 1 Esdras 9:18-36 | Parallel: the list of those who had married foreign women |
+| 10:18-44 | Ezra 2:1-70; 8:1-14; Nehemiah 7:6-73 | Parallel: the list of those who had married foreign women |

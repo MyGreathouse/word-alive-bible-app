@@ -2332,7 +2332,7 @@ So all Israel went to their tents.
 | 32:1-23 | 2 Kings 18:13-19:37; Isaiah 36:1-37:38 | Parallel: Sennacherib's invasion |
 | 32:24-33 | 2 Kings 20:1-21; Isaiah 38:1-39:8 | Parallel: Hezekiah's illness, pride and death |
 | 33:1-20 | 2 Kings 21:1-18; Jeremiah 15:4; Leviticus 18:21; Deuteronomy 18:10 | Parallel: Manasseh |
-| 33:11-19 | 2 Chronicles 7:14; 12:6-7; 32:26; Psalm 51; Prayer of Manasseh | Parallel and allusion: Manasseh humbles himself and is restored |
+| 33:11-19 | 2 Chronicles 7:14; 12:6-7; 32:26; Psalm 51 | Parallel and allusion: Manasseh humbles himself and is restored |
 | 33:21-25 | 2 Kings 21:19-26 | Parallel: Amon |
 | 34:1-7 | 2 Kings 22:1-2; 23:4-20; 1 Kings 13:1-3; Jeremiah 1:2 | Parallel: Josiah's early reform |
 | 34:8-33 | 2 Kings 22:3-23:3; Deuteronomy 28; 31:9-13 | Parallel: the book of the law found and the covenant renewed |

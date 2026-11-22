@@ -1124,7 +1124,7 @@
 | 6:1-14 | Nehemiah 2:10, 19; 4:7-8; 13:4-8; 2 Chronicles 26:16-21; Numbers 18:7 | Parallel: the plots against Nehemiah |
 | 6:15-19 | Nehemiah 12:27-43; 13:4-9, 28; Ezra 6:15 | Parallel: the finished wall and Tobiah's ties |
 | 7:1-5 | Nehemiah 1:2; 2:12; 11:1-2; 12:44-47; 13:5 | Parallel: the guard of the city and the plan to count the people |
-| 7:6-73 | Ezra 2:1-70; 1 Esdras 5:7-43 | Parallel: the list of those who returned |
+| 7:6-73 | Ezra 2:1-70 | Parallel: the list of those who returned |
 | 7:65 | Ezra 2:63; Exodus 28:30; Numbers 27:21; Leviticus 8:8 | Parallel: the Urim and Thummim |
 | 8:1-8 | Deuteronomy 31:9-13; 2 Kings 23:1-3; 2 Chronicles 34:29-32; Ezra 7:10 | Parallel: the public reading of the law |
 | 8:9-12 | Leviticus 23:23-25; Numbers 29:1-6; Esther 9:19, 22; Psalm 28:7-8 | Parallel: weeping turned to joy on the holy day |

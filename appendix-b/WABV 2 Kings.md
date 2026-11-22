@@ -1842,7 +1842,7 @@ The virgin daughter of Zion despises you and mocks you. The daughter of Jerusale
 | 1:2-8 | 1 Kings 22:51-53; Matthew 10:25 | Parallel and allusion: Ahaziah and Baal-zebub |
 | 1:8 | Zechariah 13:4; Matthew 3:4; Mark 1:6 | Parallel and allusion: a garment of hair |
 | 1:9-16 | 1 Samuel 28:6; Luke 9:51-56; Revelation 11:5 | Parallel and allusion: fire from heaven |
-| 2:1-12 | Genesis 5:24; Hebrews 11:5; Sirach 48:9-12; Malachi 4:5 | Parallel and allusion: Elijah taken up |
+| 2:1-12 | Genesis 5:24; Hebrews 11:5; Malachi 4:5 | Parallel and allusion: Elijah taken up |
 | 2:8, 14 | Exodus 14:21-22; Joshua 3:14-17 | Parallel: the divided water |
 | 2:9 | Deuteronomy 21:17; Numbers 11:17, 25 | Parallel: the double share and the spirit |
 | 2:12 | 2 Kings 13:14; Psalm 68:17 | Parallel: chariots and horsemen of Israel |
@@ -1886,7 +1886,7 @@ The virgin daughter of Zion despises you and mocks you. The daughter of Jerusale
 | 12:19-21 | 2 Chronicles 24:25-27; 2 Kings 14:5 | Parallel: the murder of Joash |
 | 13:1-9 | 2 Kings 10:32-33; 8:12; Amos 1:3-5 | Parallel: Jehoahaz and Hazael |
 | 13:14-19 | 2 Kings 2:12; 1 Kings 22:34-36 | Parallel: Elisha's last words to the king |
-| 13:20-21 | 1 Kings 17:17-24; 2 Kings 4:32-35; Sirach 48:13-14 | Parallel: a dead man revived |
+| 13:20-21 | 1 Kings 17:17-24; 2 Kings 4:32-35 | Parallel: a dead man revived |
 | 13:22-25 | Exodus 2:24-25; 6:4-5; Deuteronomy 4:31 | Parallel: the covenant with Abraham, Isaac and Jacob |
 | 14:1-22 | 2 Chronicles 25:1-28; 2 Kings 12:19-21 | Parallel: Amaziah of Judah |
 | 14:5-6 | Deuteronomy 24:16; Jeremiah 31:29-30; Ezekiel 18:1-20 | Parallel: each dies for his own sin |
@@ -1915,7 +1915,7 @@ The virgin daughter of Zion despises you and mocks you. The daughter of Jerusale
 | 19:35-37 | Isaiah 37:36-38; 2 Chronicles 32:21-22; Psalm 76 | Parallel: the angel in the Assyrian camp |
 | 20:1-11 | Isaiah 38:1-22; 2 Chronicles 32:24-26 | Parallel: Hezekiah's illness and the sign |
 | 20:12-19 | Isaiah 39:1-8; 2 Chronicles 32:25-31 | Parallel: the envoys from Babylon |
-| 20:20 | 2 Chronicles 32:30; Isaiah 22:9-11; Sirach 48:17 | Parallel: Hezekiah's water tunnel |
+| 20:20 | 2 Chronicles 32:30; Isaiah 22:9-11 | Parallel: Hezekiah's water tunnel |
 | 21:1-18 | 2 Chronicles 33:1-20; Jeremiah 15:4; 2 Kings 23:26; 24:3-4 | Parallel: Manasseh |
 | 21:6 | Leviticus 18:21; 20:2-5; Deuteronomy 18:9-12; 2 Kings 16:3; 17:17 | Parallel: the offering of a child and divination |
 | 21:10-15 | 1 Samuel 3:11; Isaiah 34:11; Lamentations 2:8; Jeremiah 19:3 | Parallel: the judgement on Jerusalem |

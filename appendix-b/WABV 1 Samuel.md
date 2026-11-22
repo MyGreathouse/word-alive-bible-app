@@ -2178,7 +2178,7 @@
 | 27:8-12 | 1 Samuel 15:7-9; 30:1-31; Joshua 13:2 | Parallel: raids on the peoples of the south |
 | 28:3 | 1 Samuel 25:1; Leviticus 19:31; 20:6, 27; Deuteronomy 18:9-14 | Parallel: the ban on mediums |
 | 28:6 | 1 Samuel 3:1; 14:37; Numbers 27:21; Amos 8:11-12 | Parallel: the LORD does not answer |
-| 28:7-25 | Isaiah 8:19; 29:4; 1 Chronicles 10:13-14; Ecclesiasticus 46:20 | Parallel and allusion: the medium of En-dor |
+| 28:7-25 | Isaiah 8:19; 29:4; 1 Chronicles 10:13-14 | Parallel and allusion: the medium of En-dor |
 | 28:17-19 | 1 Samuel 13:13-14; 15:23-29; 31:1-6 | Parallel: the kingdom torn away and Saul's end |
 | 29:1-11 | 1 Samuel 27:1-12; 18:7; 21:11 | Parallel: David and the Philistine commanders |
 | 30:1-20 | 1 Samuel 15:2-3; 27:8-9; Genesis 14:14-16 | Parallel: pursuit of raiders and rescue of captives |

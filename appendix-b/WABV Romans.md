@@ -1170,14 +1170,14 @@
 | Verses | References | Kind |
 | --- | --- | --- |
 | 1:1-17 | 2 Samuel 7:12-14; Psalm 2:7; Isaiah 11:10; Habakkuk 2:4; Acts 9:15 | Parallel and allusion: the greeting, the good news, and the theme |
-| 1:18-32 | Psalm 19:1-4; 106:20; Jeremiah 2:11; Wisdom 13 and 14; Acts 14:15-17; 17:24-29 | Parallel and allusion: the wrath of God against godlessness |
+| 1:18-32 | Psalm 19:1-4; 106:20; Jeremiah 2:11; Acts 14:15-17; 17:24-29 | Parallel and allusion: the wrath of God against godlessness |
 | 2:1-16 | Deuteronomy 10:17; 2 Chronicles 19:7; Psalm 62:12; Proverbs 24:12; Jeremiah 31:33 | Parallel and allusion: the judgement of God |
 | 2:17-29 | Deuteronomy 10:16; 30:6; Isaiah 52:5; Jeremiah 9:25-26; Ezekiel 36:20-22 | Parallel and allusion: the Jew who has the law |
 | 3:1-20 | Psalm 5:9; 10:7; 14:1-3; 36:1; 51:4; 53:1-3; 140:3; 143:2; Isaiah 59:7-8 | Parallel and allusion: the faithfulness of God, and all under sin |
 | 3:21-31 | Genesis 15:6; Leviticus 16; Deuteronomy 6:4; Isaiah 53:11; Habakkuk 2:4 | Parallel and allusion: the righteousness of God through faith |
 | 4:1-25 | Genesis 15:1-6; 17:1-27; Psalm 32:1-2; Isaiah 53:5, 12 | Parallel and allusion: Abraham, David, and what is reckoned |
 | 5:1-11 | Isaiah 32:17; 53:5; Zechariah 9:10 | Parallel and allusion: peace with God, and reconciliation |
-| 5:12-21 | Genesis 2:17; 3; Wisdom 2:23-24; 1 Corinthians 15:21-22, 45-49 | Parallel and allusion: Adam and Christ |
+| 5:12-21 | Genesis 2:17; 3; 1 Corinthians 15:21-22, 45-49 | Parallel and allusion: Adam and Christ |
 | 6:1-14 | Galatians 2:19-20; 3:27; Colossians 2:11-12 | Parallel and allusion: dying with Christ in baptism |
 | 6:15-23 | Matthew 6:24; John 8:34; Galatians 5:13 | Parallel and allusion: the slaves of righteousness |
 | 7:1-13 | Exodus 20:17; Deuteronomy 5:21; Galatians 3:19-25 | Parallel and allusion: the law and marriage, and the law and sin |
