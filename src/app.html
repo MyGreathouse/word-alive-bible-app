@@ -460,6 +460,7 @@ function renderRefs(){
     var f=r[4];if(!f.length)return;
     w.appendChild(el("div","pass","Passage "+rangeLabel(rv.b,r[0],r[1],r[2],r[3]).replace(B[rv.b].n+" ","")+" \u00B7 "+(f.length/5)+" references"));
     for(var i=0;i<f.length;i+=5){var t=f.slice(i,i+5);w.appendChild(item(rangeLabel(t[0],t[1],t[2],t[3],t[4]),rangeText(t[0],t[1],t[2],t[3],t[4]),t[0],t[1],t[2],t[3],t[4]))}
+    if(r[5])w.appendChild(el("div","cnt","Also cited (outside the 66 books): "+r[5].join("; ")));
   });
   var by=refsBy(rv.b,rv.c,rv.v);
   w.appendChild(el("div","sec2","Referenced by ("+by.length+")"));
