@@ -377,7 +377,7 @@ function renderHome(){
   document.getElementById("tBook").textContent=B[S.bi].n;document.getElementById("tCh").textContent=S.ci+1;
   var w=el("div","hm");w.appendChild(el("h1","sr","Word Alive Bible Version (WABV)"));
   var hero=el("div","hm-hero");var hi=document.createElement("img");hi.src=HERO;hi.alt="Word Alive Bible Version (WABV). Faithful to the Word. Alive in English.";hi.width=929;hi.height=700;hi.decoding="async";hero.appendChild(hi);
-  var bar=el("div","hm-bar");bar.appendChild(el("span","hm-mark","WABV"));bar.appendChild(el("span","sp"));
+  var bar=el("div","hm-bar");bar.appendChild(el("span","sp"));
   function ib(label,path,fn){var b=el("button");b.setAttribute("aria-label",label);b.innerHTML='<svg viewBox="0 0 24 24">'+path+'</svg>';b.onclick=fn;bar.appendChild(b)}
   ib("Search","<circle cx='11' cy='11' r='6.5'/><path d='M16 16l4.5 4.5'/>",function(){S.tab="find";render(true)});
   ib("Notifications","<path d='M6 16v-5a6 6 0 0 1 12 0v5l1.5 2h-15zM10 20.5a2 2 0 0 0 4 0'/>",function(){toast("No new notifications")});
