@@ -1,5 +1,5 @@
 import re,glob,json,sys
-B=json.load(open('data/bible.json'))
+B=json.load(open('/tmp/w/bible.json'))
 idx={x['s']:i for i,x in enumerate(B)}
 def norm(n):return re.sub(r'[^a-z0-9]','',n.lower())
 alias={norm(x['n']):i for i,x in enumerate(B)}
@@ -17,6 +17,8 @@ def parse_target(seg,prev,single,srcbook):
     seg=re.sub(r'\s+title\b','',seg.strip().rstrip('.'))
     if re.match(r'^(Sirach|Ecclesiasticus|Wisdom|Prayer of Manasseh|Tobit|Judith|1 Maccabees|2 Maccabees|Baruch|1 Enoch|Enoch|Jubilees)\b',seg):return [],prev
     if not seg:return [],prev
+    if norm(seg) in alias:
+        b0=alias[norm(seg)];return [[b0,1,0,nch(b0),0]],b0
     m=BOOKRE.match(seg)
     b=prev;rest=seg
     if m:
@@ -101,7 +103,7 @@ def srcmulti(txt,single):
     return res
 single={i:(nch(i)==1) for i in range(66)}
 nrows=0;ntarg=0
-for f in sorted(glob.glob('appendix-b/*.md')):
+for f in sorted(glob.glob('/tmp/w/ap/*.md')):
     nm=re.sub(r'^(WABV )?','',f.split('/')[-1][:-3]);nm=nm.replace('WABV ','')
     b=alias.get(norm(nm))
     if b is None:issues.append(('file',f));continue
@@ -122,7 +124,7 @@ for f in sorted(glob.glob('appendix-b/*.md')):
         nrows+=1;ntarg+=len(tg)
         lst.append([[list(x) for x in sp],tg])
     out[b]=lst
-json.dump(out,open('data/refs_raw.json','w'),separators=(',',':'))
+json.dump(out,open('/tmp/w/refs_raw.json','w'),separators=(',',':'))
 print('books',len(out),'rows',nrows,'targets',ntarg,'issues',len(issues))
 from collections import Counter
 for k,v in Counter(issues).most_common(40):print(v,k)
