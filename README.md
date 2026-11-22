@@ -22,5 +22,5 @@ python3 tools/make_deploy.py                 # dist/WordAliveBible-deploy.zip
 Bump the cache name in `deploy/sw.js` on each release.
 
 ## Status
-- Cross references cover 60 of 66 books. **Missing Appendix B tables: Joel, Jonah, Nahum, Habakkuk, Zephaniah, Malachi.**
+- Cross references cover all 66 books (from the Appendix B tables).
 - Planned: footnotes, BCLS word studies, reading plans, Play Store and App Store wrappers.
